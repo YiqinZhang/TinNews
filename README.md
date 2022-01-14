@@ -5,8 +5,7 @@
 This News app allows users to like or skip the news, search news, and recommend news for users based on their locations. 
 
 
-<img src="img/home.png" width="30%" height="30%"> <img src="img/save.png" width="30%" height="30%"><img src="img/search.png" width="30%" height="30%">
-
+<img src="img/home.png" width="40%" height="40%"> <img src="img/search.png" width="40%" height="40%"><img src="img/save.png" width="40%" height="40%"><img src="img/detail.png" width="40%" height="40%">
 
 ## Architecture
 
