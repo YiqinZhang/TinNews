@@ -19,7 +19,7 @@ Activity & Fragment Lifecycle
 
 ## Network
 
-Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint (newsapi.org).
+Integrated Retrofit and LiveData to pull the latest news data from a RESTFUL endpoint ([https://newsapi.org/](https://newsapi.org/)).
 
 
 ## MVVM pattern
@@ -30,7 +30,7 @@ The app was designed based on Google Component Architectural MVVM Pattern. MVVM 
 
 <img src="img/mvvm.png" width="60%" height="60%">
 
-## RecyclerView
+## Recycler View
 
 
 It implemented the bottom bar & page navigation using the JetPack navigation component. Using 3rd party CardStackView (RecyclerView), it achieved swipe gestures for liking/disliking the news.
