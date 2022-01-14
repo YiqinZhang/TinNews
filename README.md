@@ -14,8 +14,9 @@ This News app allows users to like or skip the news, search news, and recommend 
 
 ## Lifecycle
 
-Fragment Lifecycle
-<img src="img/lifecycle.png" width="60%" height="60%">
+Activity & Fragment Lifecycle
+
+<img src="img/lifecycle.png" width="50%" height="50%">
 
 ## Network
 
